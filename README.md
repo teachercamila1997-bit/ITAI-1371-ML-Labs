@@ -1,2 +1,2 @@
-# ITAI1371-Module-02-Lab
-Group project for Module 02 Lab Exercise – ITAI 1371
+# ITAI1371-Lab assignments
+This repository was created for my ITAI 1371 group lab assignments. It contains Jupyter Notebooks, where we practiced using Markdown cells, running Python code, and displaying results for Machine Learning applications.
